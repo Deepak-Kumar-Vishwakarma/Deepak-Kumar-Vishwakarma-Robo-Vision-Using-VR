@@ -1,6 +1,3 @@
-# Deepak-Kumar-Vishwakarma-Robo-Vision-Using-VR
-
-
 # Robo Vision Using VR
 
 > **Stereo Camera Streaming + Real-Time RC Car Control using ESP32 & WebVR**
@@ -45,7 +42,7 @@ ROBO_VISION_USING_VR/
 | L298N Motor Driver               | ![L298N-Module-Pinout](https://github.com/user-attachments/assets/4e2ee618-8595-4109-bbbd-bf6a8d1b39a9)                                     |
 | Breadboard Power Supply          | ![](images/Breadboard%20power%20supply%20module.jpg)    |
 | Acrylic Chassis / Zero PCB       | ![](images/Arylic_zero_pcb_board.jpeg)                  |
-| MPU6050 (Optional IMU)           | ![](images/mpu6050.jpeg)                                |
+| MPU6050 (Optional IMU)           | ![mpu6050](https://github.com/user-attachments/assets/a7eb9b46-e155-4b18-a962-728e567822e0)                                     |
 | 2200mAh / 400mAh Batteries       | ![400mah](https://github.com/user-attachments/assets/8b78dca5-318f-48b6-8828-6c3abc4dd083)                                     |
 | Full Robot Assembly              | <img width="1536" height="1024" alt="process" src="https://github.com/user-attachments/assets/0a0313fe-e93c-4b4a-8877-e4af83976d6a" />     |
 
