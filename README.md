@@ -37,7 +37,7 @@ ROBO_VISION_USING_VR/
 
 | Component                        | Image |
 |----------------------------------|-------|
-| ESP32-CAM Module (x2)            | ![](images/ESP32-CAM-Pinout.webp) |
+| ESP32-CAM Module (x2)            | ![](images/ESP32-CAM-Pinout.web) |
 | ESP32 Dev Board                  | ![](images/ESP32-Pinout.webp) |
 | NodeMCU / ESP8266 (Optional)     | ![](images/ESP8266-Pinout-NodeMCU.webp) |
 | BO Motors with Wheels            | ![](images/BO%20motor.jpeg) |
