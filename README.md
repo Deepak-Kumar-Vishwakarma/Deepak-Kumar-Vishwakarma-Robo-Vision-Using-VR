@@ -33,20 +33,20 @@ ROBO_VISION_USING_VR/
 
 ## 🔧 Hardware Components
 
-| Component                        | Image |
-|----------------------------------|-----------------------------------------------------------|
-| ESP32-CAM Module (x2)            | ![ESP32-CAM-Pinout](https://github.com/user-attachments/assets/0d6efa9d-159f-4172-b57a-e33f567da4f6)                                       |
-| ESP32 Dev Board                  | ![ESP32-Pinout](https://github.com/user-attachments/assets/38f957c2-c6dd-4365-911c-f0a8f9cffda1)                                       |
-| NodeMCU / ESP8266 (Optional)     | ![ESP8266-Pinout-NodeMCU](https://github.com/user-attachments/assets/65f9d79a-0cea-4532-9dd0-6462e22f2423)                                       |
-| BO Motors with Wheels            | ![BO motor](https://github.com/user-attachments/assets/d507746c-9254-4f72-b7ed-d205bc06a631)                                       |
-| L298N Motor Driver               | ![L298N-Module-Pinout](https://github.com/user-attachments/assets/4e2ee618-8595-4109-bbbd-bf6a8d1b39a9)                                       |
-| Breadboard Power Supply          | ![Breadboard power supply module](https://github.com/user-attachments/assets/4e8fb44e-d0af-4feb-90be-e0b8ac264794)                                       |
-| Acrylic Chassis / Zero PCB       | ![Arylic_zero_pcb_board](https://github.com/user-attachments/assets/8b4e5d7f-dcf8-4546-8a22-e533c729badb)                                       |
-| MPU6050 (Optional IMU)           | ![mpu6050](https://github.com/user-attachments/assets/a7eb9b46-e155-4b18-a962-728e567822e0)                                       |
+| Component                        | Image                                                                                                                        |
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| ESP32-CAM Module (x2)            | ![ESP32-CAM-Pinout](https://github.com/user-attachments/assets/0d6efa9d-159f-4172-b57a-e33f567da4f6)                         |
+| ESP32 Dev Board                  | ![ESP32-Pinout](https://github.com/user-attachments/assets/38f957c2-c6dd-4365-911c-f0a8f9cffda1)                             |
+| NodeMCU / ESP8266 (Optional)     | ![ESP8266-Pinout-NodeMCU](https://github.com/user-attachments/assets/65f9d79a-0cea-4532-9dd0-6462e22f2423)                   |
+| BO Motors with Wheels            | ![BO motor](https://github.com/user-attachments/assets/d507746c-9254-4f72-b7ed-d205bc06a631)                                 |
+| L298N Motor Driver               | ![L298N-Module-Pinout](https://github.com/user-attachments/assets/4e2ee618-8595-4109-bbbd-bf6a8d1b39a9)                      |
+| Breadboard Power Supply          | ![Breadboard power supply module](https://github.com/user-attachments/assets/4e8fb44e-d0af-4feb-90be-e0b8ac264794)           |
+| Acrylic Chassis / Zero PCB       | ![Arylic_zero_pcb_board](https://github.com/user-attachments/assets/8b4e5d7f-dcf8-4546-8a22-e533c729badb)                    |
+| MPU6050 (Optional IMU)           | ![mpu6050](https://github.com/user-attachments/assets/a7eb9b46-e155-4b18-a962-728e567822e0)                                  |
 | 2200mAh / 400mAh Batteries       | ![400mah](https://github.com/user-attachments/assets/8b78dca5-318f-48b6-8828-6c3abc4dd083)
-                                     ![2200mah](https://github.com/user-attachments/assets/560e1c3d-ecaa-44b4-b4dc-0c3b091f98ee)                                       |
+                                     ![2200mah](https://github.com/user-attachments/assets/560e1c3d-ecaa-44b4-b4dc-0c3b091f98ee)                                  |
 | Full Robot Assembly              | <img width="1536" height="1024" alt="process" src="https://github.com/user-attachments/assets/0a0313fe-e93c-4b4a-8877-e4af83976d6a" />  
-                                     <img width="1447" height="1570" alt="Bot" src="https://github.com/user-attachments/assets/8e7ccd6b-905c-4580-b649-7f6fefb7f5f7" />       |
+                                     <img width="1447" height="1570" alt="Bot" src="https://github.com/user-attachments/assets/8e7ccd6b-905c-4580-b649-7f6fefb7f5f7" />                                                                                                                                                  |
 
 ---
 
