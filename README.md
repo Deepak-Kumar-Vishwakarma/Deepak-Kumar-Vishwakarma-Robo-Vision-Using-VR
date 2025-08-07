@@ -5,7 +5,8 @@
 
 > **Stereo Camera Streaming + Real-Time RC Car Control using ESP32 & WebVR**
 
-![Header](images/header.jpeg)
+![Header]<img width="1536" height="1024" alt="process" src="https://github.com/user-attachments/assets/d0062583-0f70-4985-b0e0-65ecf81ea7fc" />
+
 
 **Robo Vision Using VR** is a modular robotics and IoT project designed to bring immersive, remote navigation to life using affordable hardware. It combines stereo video streaming using two ESP32-CAM modules with real-time control of a web-operated RC car, all integrated into a mobile VR-compatible interface.
 
