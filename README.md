@@ -4,8 +4,9 @@
 # Robo Vision Using VR
 
 > **Stereo Camera Streaming + Real-Time RC Car Control using ESP32 & WebVR**
-![WhatsApp Image 2025-04-16 at 18 20 54_e92ca4d4](https://github.com/user-attachments/assets/e84c398d-6426-4607-a6a6-ea2a9f8537f9)
+| ![WhatsApp Image 2025-04-16 at 18 20 54_e92ca4d4](https://github.com/user-attachments/assets/e84c398d-6426-4607-a6a6-ea2a9f8537f9) |
 
+| ![WhatsApp Image 2025-04-16 at 18 24 26_75749c7a](https://github.com/user-attachments/assets/044c3526-5e52-4688-b8ce-499985c37415) |
 
 **Robo Vision Using VR** is a modular robotics and IoT project designed to bring immersive, remote navigation to life using affordable hardware. It combines stereo video streaming using two ESP32-CAM modules with real-time control of a web-operated RC car, all integrated into a mobile VR-compatible interface.
 
@@ -36,19 +37,16 @@ ROBO_VISION_USING_VR/
 ## 🔧 Hardware Components
 
 | Component                        | Image |
-|----------------------------------|-------|
-| ESP32-CAM Module (x2)            | ![](images/ESP32-CAM-Pinout.web) |
-| ESP32 Dev Board                  | ![](images/ESP32-Pinout.webp) |
-| NodeMCU / ESP8266 (Optional)     | ![](images/ESP8266-Pinout-NodeMCU.webp) |
-| BO Motors with Wheels            | ![BO motor](https://github.com/user-attachments/assets/d507746c-9254-4f72-b7ed-d205bc06a631)
- |
-| L298N Motor Driver               | ![L298N-Module-Pinout](https://github.com/user-attachments/assets/4e2ee618-8595-4109-bbbd-bf6a8d1b39a9)
- |
-| Breadboard Power Supply          | ![](images/Breadboard%20power%20supply%20module.jpg) |
-| Acrylic Chassis / Zero PCB       | ![](images/Arylic_zero_pcb_board.jpeg) |
-| MPU6050 (Optional IMU)           | ![](images/mpu6050.jpeg) |
-| 2200mAh / 400mAh Batteries       | ![400mah](https://github.com/user-attachments/assets/8b78dca5-318f-48b6-8828-6c3abc4dd083)
- |
+|----------------------------------|---------------------------------------------------------|
+| ESP32-CAM Module (x2)            | ![](images/ESP32-CAM-Pinout.web)                        |
+| ESP32 Dev Board                  | ![](images/ESP32-Pinout.webp)                           |
+| NodeMCU / ESP8266 (Optional)     | ![](images/ESP8266-Pinout-NodeMCU.webp)                 |
+| BO Motors with Wheels            | ![BO motor](https://github.com/user-attachments/assets/d507746c-9254-4f72-b7ed-d205bc06a631)                                     |
+| L298N Motor Driver               | ![L298N-Module-Pinout](https://github.com/user-attachments/assets/4e2ee618-8595-4109-bbbd-bf6a8d1b39a9)                                     |
+| Breadboard Power Supply          | ![](images/Breadboard%20power%20supply%20module.jpg)    |
+| Acrylic Chassis / Zero PCB       | ![](images/Arylic_zero_pcb_board.jpeg)                  |
+| MPU6050 (Optional IMU)           | ![](images/mpu6050.jpeg)                                |
+| 2200mAh / 400mAh Batteries       | ![400mah](https://github.com/user-attachments/assets/8b78dca5-318f-48b6-8828-6c3abc4dd083)                                     |
 | Full Robot Assembly              | ![](images/Bot.png) |
 
 ---
