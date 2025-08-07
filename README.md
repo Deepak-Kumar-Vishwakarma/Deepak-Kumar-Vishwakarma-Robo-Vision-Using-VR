@@ -1,4 +1,4 @@
-![ESP32-CAM-Pinout](https://github.com/user-attachments/assets/88faf127-0043-4b80-860b-3f3f25ac220f)# Robo Vision Using VR
+# Robo Vision Using VR
 
 > **Stereo Camera Streaming + Real-Time RC Car Control using ESP32 & WebVR**
 ![WhatsApp Image 2025-04-16 at 18 20 54_e92ca4d4](https://github.com/user-attachments/assets/e84c398d-6426-4607-a6a6-ea2a9f8537f9)
@@ -106,13 +106,7 @@ ROBO_VISION_USING_VR/
 
 ## 👤 Author
 
-**[Your Full Name]**  
+**[DEEPAK KUMAR VISHWAKARMA]**  
 Embedded Systems & Robotics Developer  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+[LinkedIn](https://www.linkedin.com/in/deepakkumarvishwakarma/)
 
----
-
-## 📜 License
-
-This project is released under the [MIT License](LICENSE).  
-Use, modify, and distribute freely with proper attribution.
