@@ -87,7 +87,9 @@ ROBO_VISION_USING_VR/
 ## 🧩 System Architecture
 
 ![Process Diagram]
-(<img width="1536" height="1024" alt="process" src="https://github.com/user-attachments/assets/c8e36051-d46b-4ded-820f-01e560f5c933" />) 
+
+<img width="1536" height="1024" alt="process" src="https://github.com/user-attachments/assets/c8e36051-d46b-4ded-820f-01e560f5c933" />
+
 ![Mac address](https://github.com/user-attachments/assets/7014fb23-9748-44d9-aa95-608dc8b34db1)
 
 
