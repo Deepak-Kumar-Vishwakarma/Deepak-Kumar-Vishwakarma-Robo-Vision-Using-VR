@@ -47,7 +47,7 @@ ROBO_VISION_USING_VR/
 | Acrylic Chassis / Zero PCB       | ![](images/Arylic_zero_pcb_board.jpeg)                  |
 | MPU6050 (Optional IMU)           | ![](images/mpu6050.jpeg)                                |
 | 2200mAh / 400mAh Batteries       | ![400mah](https://github.com/user-attachments/assets/8b78dca5-318f-48b6-8828-6c3abc4dd083)                                     |
-| Full Robot Assembly              | ![](images/Bot.png) |
+| Full Robot Assembly              | <img width="1536" height="1024" alt="process" src="https://github.com/user-attachments/assets/0a0313fe-e93c-4b4a-8877-e4af83976d6a" />     |
 
 ---
 
@@ -86,7 +86,9 @@ ROBO_VISION_USING_VR/
 
 ## 🧩 System Architecture
 
-![Process Diagram](images/process.png)
+![Process Diagram](<img width="1536" height="1024" alt="process" src="https://github.com/user-attachments/assets/c8e36051-d46b-4ded-820f-01e560f5c933" />) 
+![Mac address](https://github.com/user-attachments/assets/7014fb23-9748-44d9-aa95-608dc8b34db1)
+
 
 ---
 
